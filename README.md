@@ -1,2 +1,2 @@
 # APDS9960_RPi
-WiringPi Library for the Avago APDS-9960 sensor
+Porting of Sparkfun APDS-9960 Arduino library for WiringPi library
